@@ -42,6 +42,7 @@ body {
 }
 
 h2 {
+  font-size: 4em;
   font-weight: 600;
   margin-bottom: 0.5em;
 }
@@ -61,7 +62,7 @@ h2 {
 }
 
 section p:first-child, .timer div:last-child span {
-  font-size: 3em;
+  font-size: 4em;
 }
 
 @media screen and (max-width: 480px) {
