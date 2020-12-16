@@ -13,9 +13,9 @@ body {
 
 .timer-container {
   background-image: url('https://media.giphy.com/media/TK4aDaZrcPvFKnn7cE/giphy.gif');
-  background-position: center;
+  background-position: 100%;
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   color: #4a4545;
   width: 100vw;
   height: 100vh;
